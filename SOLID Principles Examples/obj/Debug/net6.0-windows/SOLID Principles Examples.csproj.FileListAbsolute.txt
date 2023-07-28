@@ -1,0 +1,5 @@
+C:\Users\hasan\WPF Projects\SOLID Principles Examples\SOLID Principles Examples\obj\Debug\net6.0-windows\SOLID Principles Examples.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\SOLID Principles Examples\SOLID Principles Examples\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\WPF Projects\SOLID Principles Examples\SOLID Principles Examples\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\WPF Projects\SOLID Principles Examples\SOLID Principles Examples\obj\Debug\net6.0-windows\SOLID Principles Examples_MarkupCompile.cache
+C:\Users\hasan\WPF Projects\SOLID Principles Examples\SOLID Principles Examples\obj\Debug\net6.0-windows\SOLID Principles Examples_MarkupCompile.lref
